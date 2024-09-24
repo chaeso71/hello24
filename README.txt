@@ -5,7 +5,7 @@
 git init
 
 # 파일 생성(REAME.TXT)
-git add readme.txt
+git add README.txt
 
 # 커밋
 git commit -m '[파일생성] README.txt'
@@ -18,3 +18,4 @@ git remote -v
 
 # 원격 저장소에 저장
 git push -u origin main
+
